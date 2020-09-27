@@ -1,2 +1,5 @@
 #for install tensorflow:
 !pip install tensorflow==2.0-alpha0
+Everything for opencv. https://medium.com/@bhalodiarishi1/installation-of-opencv-using-anaconda-mac-faded05a4ef6
+https://stackoverflow.com/questions/49118277/what-is-the-best-way-to-install-conda-on-macos-apple-mac
+https://stackoverflow.com/questions/63196320/installing-opencv-with-conda-and-spyder
