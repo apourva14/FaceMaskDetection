@@ -1,4 +1,4 @@
-#How to install opencv and operate for python3.8.3.
+How to install opencv and operate for python3.8.3!
 Open the terminal and type
 1.brew cask install anaconda
 2.export PATH="/usr/local/anaconda3/bin:$PATH"
